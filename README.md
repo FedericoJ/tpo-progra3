@@ -1,5 +1,5 @@
 # tpo-progra3
-TPO Progra 3
+TPO Progra 3 - Pinamar
 
 Implementamos los algoritmos BFS y DFS
 
